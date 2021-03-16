@@ -9,7 +9,7 @@ output: html_document
 
 The goal of this document is to reproduce some of the analyses and figures in Grace & Keeley 2006, a paper that uses structural equation models (SEMs) to study how fires affect different aspects of plant communities, particularly species richness.  The authors used frequentist methods but here I will try frequentist and Bayesian methods.  The authors do a good job of highlighting the main steps to creating SEMs throughout the paper, and I've quoted some of that material throughout the document.
 
-Note: [I am also straight up stealing some of this from Jarrett](https://rpubs.com/jebyrnes/brms_bayes_sem)
+Note: [I was inspired by Jarrett's blog post on this paper comparing lavaan and brms.](https://rpubs.com/jebyrnes/brms_bayes_sem)
 
 
 ### Create a conceptual model of your system using *a priori* knowledge
